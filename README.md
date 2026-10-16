@@ -1,1 +1,0 @@
-# ngf-python-day1
